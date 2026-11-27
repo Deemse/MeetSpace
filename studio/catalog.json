@@ -1,0 +1,83 @@
+[
+  [
+    "skin",
+    "Skin tone",
+    [
+      "Peach",
+      "Porcelain",
+      "Golden",
+      "Caramel",
+      "Umber",
+      "Espresso"
+    ]
+  ],
+  [
+    "hair",
+    "Hairstyle",
+    [
+      "Swept",
+      "Close crop",
+      "Curly",
+      "Top bun",
+      "Shaved"
+    ]
+  ],
+  [
+    "dye",
+    "Hair color",
+    [
+      "Chestnut",
+      "Black",
+      "Auburn",
+      "Blond",
+      "Silver"
+    ]
+  ],
+  [
+    "glasses",
+    "Spectacles",
+    [
+      "Round",
+      "Rectangular",
+      "Off"
+    ]
+  ],
+  [
+    "top",
+    "Clothes",
+    [
+      "Hoodie",
+      "Button shirt",
+      "Crewneck"
+    ]
+  ],
+  [
+    "fabric",
+    "Clothing color",
+    [
+      "Slate",
+      "Forest",
+      "Clay",
+      "Ivory",
+      "Plum"
+    ]
+  ],
+  [
+    "shoes",
+    "Shoes",
+    [
+      "Sneakers",
+      "Boots"
+    ]
+  ],
+  [
+    "accessory",
+    "Accessories",
+    [
+      "None",
+      "Headphones",
+      "Watch",
+      "Headphones and watch"
+    ]
+  ]
+]
